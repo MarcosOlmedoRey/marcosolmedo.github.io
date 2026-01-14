@@ -9,4 +9,4 @@ Personal CV and portfolio website built with HTML and CSS.
 - CSS3
 
 ## Purpose
-This project showcases my profile, skills and experience as an IT junior developer.****
+This project showcases my profile, skills and experience as an IT junior developer.
