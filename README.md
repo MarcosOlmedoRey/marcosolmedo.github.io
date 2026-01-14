@@ -2,7 +2,7 @@
 
 Personal CV and portfolio website built with HTML and CSS.
 
-🔗 Live version: https://marcosolmedo.github.io
+🔗 Live version: (https://marcosolmedorey.github.io/marcosolmedo.github.io/)
 
 ## Technologies
 - HTML5
